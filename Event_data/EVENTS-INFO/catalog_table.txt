@@ -1,0 +1,48 @@
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source IRIS --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+#N LAT       LON       DEP  DATETIME             MAG  AUTH  EV_ID              FLY  
+--------------------------------------------------------------------------------
+1    -6.215   155.144  135  2017-01-22T04:30:22  7.9  None  20170122_043022.a  NAN
+--------------------------------------------------------------------------------
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source ORFEUS --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+#N LAT       LON       DEP  DATETIME             MAG  AUTH  EV_ID              FLY  
+--------------------------------------------------------------------------------
+1    -6.215   155.144  135  2017-01-22T04:30:22  7.9  None  20170122_043022.a  NAN
+--------------------------------------------------------------------------------
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source INGV --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+#N LAT       LON       DEP  DATETIME             MAG  AUTH  EV_ID              FLY  
+--------------------------------------------------------------------------------
+1    -6.215   155.144  135  2017-01-22T04:30:22  7.9  None  20170122_043022.a  NAN
+--------------------------------------------------------------------------------
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source INGV --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+#N LAT       LON       DEP  DATETIME             MAG  AUTH  EV_ID              FLY  
+--------------------------------------------------------------------------------
+1    -6.215   155.144  135  2017-01-22T04:30:22  7.9  None  20170122_043022.a  NAN
+--------------------------------------------------------------------------------
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source GFZ --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+#N LAT       LON       DEP  DATETIME             MAG  AUTH  EV_ID              FLY  
+--------------------------------------------------------------------------------
+1    -6.215   155.144  135  2017-01-22T04:30:22  7.9  None  20170122_043022.a  NAN
+--------------------------------------------------------------------------------
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source ETH --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+#N LAT       LON       DEP  DATETIME             MAG  AUTH  EV_ID              FLY  
+--------------------------------------------------------------------------------
+1    -6.215   155.144  135  2017-01-22T04:30:22  7.9  None  20170122_043022.a  NAN
+--------------------------------------------------------------------------------

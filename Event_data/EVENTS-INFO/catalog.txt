@@ -1,0 +1,42 @@
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source IRIS --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+#number,event_id,datetime,latitude,longitude,depth,magnitude,magnitude_type,author,flynn_region,mrr,mtt,mpp,mrt,mrp,mtp,stf_func,stf_duration,t1,t2
+1,20170122_043022.a,2017-01-22T04:30:22.990000Z,-6.2145,155.1442,135.0,7.9,mww,None,NAN,None,None,None,None,None,None,triangle,42.294,2017-01-22T04:22:02.990000Z,2017-01-22T06:35:22.990000Z
+
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source ORFEUS --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+#number,event_id,datetime,latitude,longitude,depth,magnitude,magnitude_type,author,flynn_region,mrr,mtt,mpp,mrt,mrp,mtp,stf_func,stf_duration,t1,t2
+1,20170122_043022.a,2017-01-22T04:30:22.990000Z,-6.2145,155.1442,135.0,7.9,mww,None,NAN,None,None,None,None,None,None,triangle,42.294,2017-01-22T04:22:02.990000Z,2017-01-22T06:35:22.990000Z
+
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source INGV --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+#number,event_id,datetime,latitude,longitude,depth,magnitude,magnitude_type,author,flynn_region,mrr,mtt,mpp,mrt,mrp,mtp,stf_func,stf_duration,t1,t2
+1,20170122_043022.a,2017-01-22T04:30:22.990000Z,-6.2145,155.1442,135.0,7.9,mww,None,NAN,None,None,None,None,None,None,triangle,42.294,2017-01-22T04:22:02.990000Z,2017-01-22T06:35:22.990000Z
+
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source INGV --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+#number,event_id,datetime,latitude,longitude,depth,magnitude,magnitude_type,author,flynn_region,mrr,mtt,mpp,mrt,mrp,mtp,stf_func,stf_duration,t1,t2
+1,20170122_043022.a,2017-01-22T04:30:22.990000Z,-6.2145,155.1442,135.0,7.9,mww,None,NAN,None,None,None,None,None,None,triangle,42.294,2017-01-22T04:22:02.990000Z,2017-01-22T06:35:22.990000Z
+
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source GFZ --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+#number,event_id,datetime,latitude,longitude,depth,magnitude,magnitude_type,author,flynn_region,mrr,mtt,mpp,mrt,mrp,mtp,stf_func,stf_duration,t1,t2
+1,20170122_043022.a,2017-01-22T04:30:22.990000Z,-6.2145,155.1442,135.0,7.9,mww,None,NAN,None,None,None,None,None,None,triangle,42.294,2017-01-22T04:22:02.990000Z,2017-01-22T06:35:22.990000Z
+
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source ETH --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+#number,event_id,datetime,latitude,longitude,depth,magnitude,magnitude_type,author,flynn_region,mrr,mtt,mpp,mrt,mrp,mtp,stf_func,stf_duration,t1,t2
+1,20170122_043022.a,2017-01-22T04:30:22.990000Z,-6.2145,155.1442,135.0,7.9,mww,None,NAN,None,None,None,None,None,None,triangle,42.294,2017-01-22T04:22:02.990000Z,2017-01-22T06:35:22.990000Z
+

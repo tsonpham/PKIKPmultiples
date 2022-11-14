@@ -1,0 +1,7 @@
+#Authors,rIMIC,epsilon0,sigma0,gamma0,epsilon1,sigma1,gamma1
+#Calvet et al. (2006),440,1,-1.31,-0.11,-1.45,-2.95,0.67
+Frost & Romanowicz (2019),750,1.2,-1.76,0.13,5.7,-14.4,0.53
+Stephenson et al. (2021),650,1.3,-1.11,0,2.19,-7.72,0
+Costa de Lima et al. (2022),650,1.3,-1.11,0,3.3,-12.9,1.3
+Ishii & Dziewonski (2003),300,1.8,-0.67,0,3.7,-19.7,2
+#Tkalčić et al. (2022),600,1.3,-1.11,0,7.3,-15.9,0.4

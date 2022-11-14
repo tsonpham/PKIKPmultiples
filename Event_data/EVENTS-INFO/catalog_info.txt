@@ -1,0 +1,120 @@
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source IRIS --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+Information about the requested Events:
+
+Number of Events: 1
+min datetime: 2017-01-22T00:00:00.000000Z
+max datetime: 2017-01-23T00:00:00.000000Z
+min magnitude: 7.0
+max magnitude: 10.0
+min latitude: None
+max latitude: None
+min longitude: None
+max longitude: None
+min depth: -10.0
+max depth: 6000.0
+
+
+=====================================
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source ORFEUS --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+Information about the requested Events:
+
+Number of Events: 1
+min datetime: 2017-01-22T00:00:00.000000Z
+max datetime: 2017-01-23T00:00:00.000000Z
+min magnitude: 7.0
+max magnitude: 10.0
+min latitude: None
+max latitude: None
+min longitude: None
+max longitude: None
+min depth: -10.0
+max depth: 6000.0
+
+
+=====================================
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source INGV --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+Information about the requested Events:
+
+Number of Events: 1
+min datetime: 2017-01-22T00:00:00.000000Z
+max datetime: 2017-01-23T00:00:00.000000Z
+min magnitude: 7.0
+max magnitude: 10.0
+min latitude: None
+max latitude: None
+min longitude: None
+max longitude: None
+min depth: -10.0
+max depth: 6000.0
+
+
+=====================================
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source INGV --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+Information about the requested Events:
+
+Number of Events: 1
+min datetime: 2017-01-22T00:00:00.000000Z
+max datetime: 2017-01-23T00:00:00.000000Z
+min magnitude: 7.0
+max magnitude: 10.0
+min latitude: None
+max latitude: None
+min longitude: None
+max longitude: None
+min depth: -10.0
+max depth: 6000.0
+
+
+=====================================
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source GFZ --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+Information about the requested Events:
+
+Number of Events: 1
+min datetime: 2017-01-22T00:00:00.000000Z
+max datetime: 2017-01-23T00:00:00.000000Z
+min magnitude: 7.0
+max magnitude: 10.0
+min latitude: None
+max latitude: None
+min longitude: None
+max longitude: None
+min depth: -10.0
+max depth: 6000.0
+
+
+=====================================
+Command line:
+-------------
+/Users/thanhson/miniconda3/bin/obspyDMT --datapath Event_data --min_date 2017-01-22 --max_date 2017-01-23 --min_mag 7.0 --net * --cha BHZ --data_source ETH --pre_process None --cut_time_phase --preset 500 --offset 7500 --bulk 
+
+Information about the requested Events:
+
+Number of Events: 1
+min datetime: 2017-01-22T00:00:00.000000Z
+max datetime: 2017-01-23T00:00:00.000000Z
+min magnitude: 7.0
+max magnitude: 10.0
+min latitude: None
+max latitude: None
+min longitude: None
+max longitude: None
+min depth: -10.0
+max depth: 6000.0
+
+
+=====================================
